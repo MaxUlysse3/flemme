@@ -1,0 +1,9 @@
+[package]
+name = "flemme"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ndarray = "0.16.1"
+rand = "0.9.0"
+serde = "1.0.217"
